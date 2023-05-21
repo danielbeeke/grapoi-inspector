@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Grapoi",
+  "version": "1.0",
+  "description": "Inspect Grapoi pointers",
+
+  "icons": {
+    "48": "icons/favicon.svg",
+    "96": "icons/favicon.svg"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "devtools_page": "devtools/grapoi.html"
+
+}

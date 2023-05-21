@@ -1,0 +1,1 @@
+chrome.devtools.panels.create('Grapoi', '/icons/favicon-firefox.svg', '/devtools/panel/grapoi.html')
